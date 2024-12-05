@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehrdad Adabi</h1>
-<h3 align="center">Student at IslamicAzadUniversity, Mashhad🌟.</h3>
+<h3 align="center">Student at Islamic Azad University, Mashhad🌟.</h3>
 
 <br>
 
@@ -14,23 +14,24 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://ir.linkedin.com/in/mehrdad-adabi" target="_blank" rel="noreferrer">
+<p align="left">
+  <a href="https://ir.linkedin.com/in/mehrdad-adabi" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="Mehrdad Adabi" height="30" width="40" />
   </a>
-  <a href="https://t.me/Mehrdad0937"  target="_blank" rel="noreferrer">
+  <a href="https://t.me/Mehrdad0937" target="blank">
     <img align="center" 
          src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
          alt="Telegram" height="30" width="40" />
   </a>
-  <a href="mailto:mehrdadadabi29@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:mehrdadadabi29@gmail.com" target="blank">
     <img align="center" 
          src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
          alt="Gmail" height="30" width="40" />
   </a>
-</div>
+</p>
+
 
 <br>
 
