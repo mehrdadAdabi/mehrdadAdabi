@@ -20,28 +20,28 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://ir.linkedin.com/in/mehrdad-adabi" target="blank" style="color: transparent;">
+<div align="left">
+  <a href="https://ir.linkedin.com/in/mehrdad-adabi" target="blank" style="color: transparent; display: inline-block;">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="Mehrdad Adabi" height="30" width="40" />
   </a>
-  <a href="https://t.me/Mehrdad0937" target="blank" style="color: transparent;">
+  <a href="https://t.me/Mehrdad0937" target="blank" style="color: transparent; display: inline-block;">
     <img align="center" 
          src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
          alt="Telegram" height="30" width="40" />
   </a>
-  <a href="mailto:mehrdadadabi29@gmail.com" target="blank" style="color: transparent;">
+  <a href="mailto:mehrdadadabi29@gmail.com" target="blank" style="color: transparent; display: inline-block;">
     <img align="center" 
          src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
          alt="Gmail" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
   </a>
@@ -69,7 +69,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="color: transparent;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
-</p>
+</div>
 
 <br>
 
