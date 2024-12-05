@@ -73,7 +73,7 @@
 
 <br>
 
-<h3>Statistical Data :</h3>
+<h3>Technologies and Skills :</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
